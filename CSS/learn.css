@@ -1,0 +1,14 @@
+html {
+    margin: 0;
+}
+.listcontainer {
+    display: flex;
+    flex-direction: row;
+}
+.listcontainer ul {
+    list-style: none;
+}
+
+.listcontainer li {
+    font-size: 40px;
+}
